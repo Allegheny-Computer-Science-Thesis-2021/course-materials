@@ -1,4 +1,4 @@
-# Course materials: Senior Thesis, Allegheny College, 2021 (CMPSC 600/610)
+# Course materials: Senior Thesis, Allegheny College, 2021 (CMPSC 600)
 
 This repository hosts materials which describe the structure and operation of CMPSC 600 and 610. Check this space early and often for updates to the syllabus, schedule, and other course governance.
 
