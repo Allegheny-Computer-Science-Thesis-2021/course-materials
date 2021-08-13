@@ -41,7 +41,7 @@ Your senior thesis process affords you the opportunity to pursue independent res
 |:-----------|:----|:-------|:--------|
 |Monday      |1:50p-2:40p |General meeting |Alden 101|
 
-The above meetings serve as your oppotunity to work on assignments and participate in the community created by this course. Your ability to give and receive peer feedback is fundamental to your success.
+The above meetings serve as your opportunity to work on assignments and participate in the community created by this course. Your ability to give and receive peer feedback is fundamental to your success.
 
 Your readers expect you to attend these meetings. During these sessions, you will meet in groups led by your First Reader. The faculty expects your attendance and full participation, unless other arrangements (i.e. course conflicts) have been made.
 
@@ -96,6 +96,7 @@ You are responsible for accepting and maintaining GitHub repositories for each o
 **Course instructors will only grade and provide feedback on projects that are stored and properly released through GitHub.**
 
 ##### Status updates
+
 This assignment types asks you to detail the progress made on identifying a topic for your project and completing the preliminary research needed to demonstrate its feasibility. This work should account for feedback solicited from your First and Second Readers.
 
 ##### Thesis proposal
