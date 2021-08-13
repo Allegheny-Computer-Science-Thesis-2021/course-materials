@@ -9,37 +9,16 @@ This repository hosts materials which describe the structure and operation of CM
 * [Syllabus](#Syllabus)
 * [Course GitHub](https://github.com/Allegheny-Computer-Science-Thesis-2021)
 * [Course Slack channel](https://cs-senior-thesis-2021.slack.com)
-* [Course schedule]()
+* [Course schedule](https://chompe.rs/cmpsc-600-2021-schedule)
 
 ### Readers
 
-#### Dr. Oliver Bonham Carter
-
-* Alden Hall, 104
-* `+1 814 332 2907`
-* [obonhamcarter@allegheny.edu](mailto:obonhamcarter@allegheny.edu)
-* [Office Hours](http://www.cs.allegheny.edu/sites/obonhamcarter/)
-
-#### Dr. Greg Kapfhammer
-
-* Alden Hall, 108
-* `+1 814 332 2880`
-* [gkapfham@allegheny.edu](mailto:gkapfham@allegheny.edu)
-* [Office Hours](https://www.gregorykapfhammer.com/schedule/)
-
-#### Prof. Douglas Luman
-
-* Alden Hall, 105
-* `+1 814 332 2136`
-* [dluman@allegheny.edu](mailto:dluman@allegheny.edu)
-* [Office Hours](http://www.cs.allegheny.edu/sites/dluman/)
-
-#### Dr. Aravind Mohan
-
-* Alden Hall, 106
-* `+1 814 332 2883`
-* [amohan@allegheny.edu](mailto:amohan@allegheny.edu)
-* [Office Hours](http://www.cs.allegheny.edu/sites/amohan/)
+|Reader |Office |Tel. |Email |Office hours |
+|:------|:------|:----|:-----|:------------|
+|Dr. Oliver Bonham-Carter |Alden Hall, 104 |`+1 814 332 2907`| [obonhamcarter@allegheny.edu](mailto:obonhamcarter@allegheny.edu)| [Office Hours](http://www.cs.allegheny.edu/sites/obonhamcarter/)|
+|Dr. Greg Kapfhammer |Alden Hall, 108| `+1 814 332 2880`| [gkapfham@allegheny.edu](mailto:gkapfham@allegheny.edu) |[Office Hours](https://www.gregorykapfhammer.com/schedule/)|
+|Prof. Douglas Luman |Alden Hall, 105 |`+1 814 332 2136`| [dluman@allegheny.edu](mailto:dluman@allegheny.edu)| [Office Hours](http://www.cs.allegheny.edu/sites/dluman/)|
+|Dr. Aravind Mohan |Alden Hall, 106 |`+1 814 332 2883` | [amohan@allegheny.edu](mailto:amohan@allegheny.edu)| [Office Hours](http://www.cs.allegheny.edu/sites/amohan/)|
 
 ## Syllabus
 
