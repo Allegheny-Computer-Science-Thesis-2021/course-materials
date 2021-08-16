@@ -10,6 +10,7 @@ This repository hosts materials which describe the structure and operation of CM
 * [Course GitHub](https://github.com/Allegheny-Computer-Science-Thesis-2021)
 * [Course Slack channel](https://cs-senior-thesis-2021.slack.com)
 * [Course schedule](https://chompe.rs/cmpsc-600-2021-schedule)
+* [Project guidelines](CONTRIBUTING.md)
 
 ### Readers
 
@@ -85,20 +86,24 @@ By the end of this series of courses, you will develop skills to:
 
 Faculty in the Department of Computer Science evaluate individual student performance as a faculty body, discussing submitted student deliverables. These deliverables are scored using the following percentages:
 
-|Letter grade | Range      |
-|:------------|:-----------|
-|A            | 96 - 100   |
-|A-           | 90 - 95.9  |
-|B+           | 87 - 89.9  |
-|B            | 83 - 86.9  |
-|B-           | 80 - 82.9  |
-|C+           | 77 - 79.9  |
-|C            | 73 - 76.9  |
-|C-           | 70 - 72.9  |
-|D+           | 67 - 69.9  |
-|D            | 63 - 66.9  |
-|D-           | 60 - 62.9  |
+|Grading scale|            |             |            |             |            |
+|:------------|:-----------|:------------|:-----------|:------------|:-----------|
+|A            | 96 - 100   |A-           | 90 - 95.9  |
+|B+           | 87 - 89.9  |B            | 83 - 86.9  |B-           | 80 - 82.9  |
+|C+           | 77 - 79.9  |C            | 73 - 76.9  |C-           | 70 - 72.9  |
+|D+           | 67 - 69.9  |D            | 63 - 66.9  |D-           | 60 - 62.9  |
 |F            | 59.9 and below |
+
+The assignments of this course are comprised of various individual and peer deliverables, detailed below. For the purposes of evaluation, these assignments are assigned the following point values:
+
+|Assignment                      |Point value |Percentage of course grade |
+|:-------------------------------|:-----------|:--------------------------|
+|Class participation             |50          |5%                         |
+|Maintaining course repositories |50          |5%                         |
+|Status updates                  |50          |5%                         |
+|Peer reviews                    |150         |15%                        |
+|Thesis proposal                 |500         |50%                        |
+|Thesis chapters (drafts)        |200         |20%                        |
 
 #### Class participation
 
@@ -110,9 +115,11 @@ You are responsible for accepting and maintaining GitHub repositories for each o
 
 **Course instructors will only grade and provide feedback on projects that are stored and properly released through GitHub.**
 
-##### Status updates
+##### Status updates and peer review
 
 This assignment types asks you to detail the progress made on identifying a topic for your project and completing the preliminary research needed to demonstrate its feasibility. This work should account for feedback solicited from your First and Second Readers.
+
+In addition, you will be requested (at three points throughout the semester) to complete peer reviews of draft documents. This feedback is crucial to you and your peers' progress in this course.
 
 ##### Thesis proposal
 
