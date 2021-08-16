@@ -52,9 +52,9 @@ Faculty of the department of Computer Science also expect that students engaging
 
 The faculty of the Department of Computer Science will make an honest, good faith effort to advise students on projects. However, we would like to highlight two peculiar characteristics of feedback given during the Comp process:
 
-    1. Feedback, while coming from a place of disciplinary knowledge does not necessarily take into account the breadth and depth students have acquired during their indepdendent research. The faculty expect that students will assume the right to persist in asserting well-informed, even if contrary, opinions -- provided that they are grounded in evidence.
-    
-    2. Feedback given by faculty often presages deep experience which goes beyond surface-level insights or "cosmetic" changes. Failure to address reader feedback constitutes a serious issue in the research process. This does not mean that students should simply acquiesce to faculty opinion. Rather, students should take up the ability to inquire. challenge, and assess the validity of faculty commentary.
+1. Feedback, while coming from a place of disciplinary knowledge does not necessarily take into account the breadth and depth students have acquired during their indepdendent research. The faculty expect that students will assume the right to persist in asserting well-informed, even if contrary, opinions -- provided that they are grounded in evidence.
+
+2. Feedback given by faculty often presages deep experience which goes beyond surface-level insights or "cosmetic" changes. Failure to address reader feedback constitutes a serious issue in the research process. This does not mean that students should simply acquiesce to faculty opinion. Rather, students should take up the ability to inquire. challenge, and assess the validity of faculty commentary.
     
 All parties involved in the Comp process acknowledge the relationship between faculty and students involved to be one of peer research. Both parties should assume this to be true in all exchanges and in evaluation of critical feedback.
 
