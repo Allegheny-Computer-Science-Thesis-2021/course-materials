@@ -1,6 +1,6 @@
 # Guidelines: Senior Thesis, Allegheny College, 2021 (CMPSC 600)
 
-This document outlines relevant guidelines of the Senior Thesis ("Comp") proposal, describing topic selection, departmental deadlines, and best practices pertaining to work conducted during the semester students take `CMPSC 600`. Additionally, this document outlines those factors of the Comp proposal process which are not directly governed by the `CMPSC 600` syllabus, but are inherent in the process of what the Department of Computer Science implies when referencing "research" and/or "inquiry."
+This document outlines relevant guidelines of the Senior Thesis ("Comp") Proposal, describing topic selection, departmental deadlines, and best practices pertaining to work conducted during the semester students take `CMPSC 600`. Additionally, this document outlines those factors of the Comp proposal process which are not directly governed by the `CMPSC 600` syllabus, but are inherent in the process of what the Department of Computer Science implies when referencing "research" and/or "inquiry."
 
 ## Topic selection
 
