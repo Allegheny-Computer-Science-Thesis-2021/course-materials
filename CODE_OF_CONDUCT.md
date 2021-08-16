@@ -58,7 +58,7 @@ The faculty of the Department of Computer Science will make an honest, good fait
     
 All parties involved in the Comp process acknowledge the relationship between faculty and students involved to be one of peer research. Both parties should assume this to be true in all exchanges and in evaluation of critical feedback.
 
-### Proposal defenses
+## Proposal defenses
 
 Proposal defenses take the form of an in-person oral presentation of between 10 and 15 minutes. Time is dedicated as follows:
 
