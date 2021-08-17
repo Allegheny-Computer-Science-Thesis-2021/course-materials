@@ -4,7 +4,7 @@ This document outlines relevant guidelines of the Senior Thesis ("Comp") Proposa
 
 ## Topic selection
 
-For most students, the partial draft proposal completed at the end of `CMPSC 580` (Junior Seminar) will dictate your topic selection for completing work in `CMPSC 600`. In most cases, students will develop the work completed during a previous semester into a Comp proposal. Here development can also include modifications to originally-proposed topics, provided appropriate conversations with assigned First Readers.
+For most students, the partial draft Proposal completed at the end of `CMPSC 580` (Junior Seminar) will dictate your topic selection for completing work in `CMPSC 600`. In most cases, students will develop the work completed during a previous semester into a Comp Proposal. Here development can also include modifications to originally-proposed topics, provided appropriate conversations with assigned First Readers.
 
 ### Choosing a new topic
 
@@ -16,7 +16,7 @@ In the past, students have successfully chosen to complete Comp projects dramati
 
 ## Due dates
 
-All due dates are provided in the [course schedule](https://chompe.rs/cmpsc-600-2021-schedule). For convienience, major due dates (including the proposal, defenses, and draft chapter due dates) are reproduced here:
+All due dates are provided in the [course schedule](https://chompe.rs/cmpsc-600-2021-schedule). For convienience, major due dates (including the Proposal, defenses, and draft chapter due dates) are reproduced here:
 
 |Deliverable      |Due date(s) |
 |:----------------|:-----------|
@@ -30,21 +30,21 @@ The course syllabus, assignment sheets, and schedule take precedence in defining
 
 ### A note on the nature of the work
 
-Throughout the Comp proposal process, it is incumbent upon students to schedule meetings with First Readers or to seek out advice and mentorship from additional faculty or advisors. Occasionally, readers may schedule regular, standing meetings with students to discuss work. Students are expected to invest time, energy, and effort in good faith. 
+Throughout the Comp Proposal process, it is incumbent upon students to schedule meetings with First Readers or to seek out advice and mentorship from additional faculty or advisors. Occasionally, readers may schedule regular, standing meetings with students to discuss work. Students are expected to invest time, energy, and effort in good faith. 
 
-The highly independent and autonomous nature of work associated with the Comp proposal process assumes a signficant amount of discretionary labor on students' behalf.
+The highly independent and autonomous nature of work associated with the Comp Proposal process assumes a signficant amount of discretionary labor on students' behalf.
 
 ### Defining primary departments (double majors)
 
 #### Disciplinary jurisdiction
 
-For students working under the auspices of a double major, the major indicated _first_ on documentation is that which governs the Comp process -- including the proposal. While you may work closely with faculty in the Department of Computer Science, be aware that individual disciplines (if listed _before_ computer science) will take precedence in terms of high-level concerns (such as defenses or burdens of proof/evidence) and lower-level concerns such as citation format. 
+For students working under the auspices of a double major, the major indicated _first_ on documentation is that which governs the Comp process -- including the Proposal. While you may work closely with faculty in the Department of Computer Science, be aware that individual disciplines (if listed _before_ computer science) will take precedence in terms of high-level concerns (such as defenses or burdens of proof/evidence) and lower-level concerns such as citation format. 
 
-If completing a Comp proposal which involves two (2) discplines, _it is up to students_ to submit documentation to _all_ appropriate readers.
+If completing a Comp Proposal which involves two (2) discplines, _it is up to students_ to submit documentation to _all_ appropriate readers.
 
 #### Additional expectations of interdisciplinary projects
 
-Interdisciplinary projects should, at a minimum, make clear how disciplines outside of computer science exert influence on the product created in addition to demonstrating how computer science also affects conclusions and outcomes reached by other subjects. To determine this, readers and other faculty will be in conversation with other departments to assess all major products and deliverables, namely the Comp proposal and draft chapters.
+Interdisciplinary projects should, at a minimum, make clear how disciplines outside of computer science exert influence on the product created in addition to demonstrating how computer science also affects conclusions and outcomes reached by other subjects. To determine this, readers and other faculty will be in conversation with other departments to assess all major products and deliverables, namely the Comp Proposal and draft chapters.
 
 Faculty of the department of Computer Science also expect that students engaging in interdisciplinary work will coordinate with all readers to attend defenses and provide feedback on written product. Failure to do so may, in some cases, affect the faculty's ability to appropriate evaluate work.
 
@@ -54,7 +54,7 @@ The faculty of the Department of Computer Science will make an honest, good fait
 
 1. Feedback, while coming from a place of disciplinary knowledge does not necessarily take into account the breadth and depth students have acquired during their indepdendent research. The faculty expect that students will assume the right to persist in asserting well-informed, even if contrary, opinions -- provided that they are grounded in evidence.
 
-2. Feedback given by faculty often presages deep experience which goes beyond surface-level insights or "cosmetic" changes. Failure to address reader feedback constitutes a serious issue in the research process. This does not mean that students should simply acquiesce to faculty opinion. Rather, students should take up the ability to inquire. challenge, and assess the validity of faculty commentary.
+2. Feedback given by faculty often presages deep experience which goes beyond surface-level insights or "cosmetic" changes. Failure to address reader feedback constitutes a serious issue in the research process. This does not mean that students should simply acquiesce to faculty opinion. Rather, students should take up the ability to inquire, challenge, and assess the validity of faculty commentary.
     
 All parties involved in the Comp process acknowledge the relationship between faculty and students involved to be one of peer research. Both parties should assume this to be true in all exchanges and in evaluation of critical feedback.
 
@@ -64,9 +64,9 @@ Proposal defenses take the form of an in-person oral presentation of between 10 
 
 * 10 minutes: student presentation
 * 5 minutes: questions posed by First and Second readers in succession
-* brief deliberation of proposal document and presentation, during which the presenting student leaves the room
+* brief deliberation of Proposal document and presentation, during which the presenting student leaves the room
 
-After deliberation, the First Reader indicates if the presenter has passed the Proposal stage. Students _will not_ be given a grade on their proposal at this time.
+After deliberation, the First Reader indicates if the presenter has passed the Proposal stage. Students _will not_ be given a grade on their document or presentation at this time.
 
 #### Passing the defense
 
@@ -74,4 +74,4 @@ If a student passes the Proposal defense, they are permitted to continue work on
 
 #### Not passing the thesis defense
 
-Should readers determine that a student _does not_ pass the Proposal defense, changes will be requested via issues filed on the GitHub repository containing the proposal. In addition, the student will be asked to attend a follow-up defense. During this follow-up defense, students are expected to address the gaps identified by the previous defense.
+Should readers determine that a student _does not_ pass the Proposal defense, changes will be requested via issues filed on the GitHub repository containing the Proposal document. In addition, the student will be asked to attend a follow-up defense. During this follow-up defense, students are expected to address the gaps identified by the previous defense.
