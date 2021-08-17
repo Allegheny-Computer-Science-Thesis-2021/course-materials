@@ -10,7 +10,7 @@ This repository hosts materials which describe the structure and operation of CM
 * [Course GitHub](https://github.com/Allegheny-Computer-Science-Thesis-2021)
 * [Course Slack channel](https://cs-senior-thesis-2021.slack.com)
 * [Course schedule](https://chompe.rs/cmpsc-600-2021-schedule)
-* [Project guidelines](CONTRIBUTING.md)
+* [Project guidelines](CODE_OF_CONDUCT.md)
 
 ### Readers
 
