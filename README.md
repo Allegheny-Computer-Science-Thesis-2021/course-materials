@@ -106,6 +106,16 @@ The assignments of this course are comprised of various individual and peer deli
 |Thesis proposal                 |500         |50%                        |
 |Thesis chapters (drafts)        |200         |20%                        |
 
+#### Note about assignments
+
+To pass `CMPSC 600`, submissions of and participation in the following assignments are _required_:
+
+* Thesis proposal
+* Thesis defense
+* Thesis chapters
+
+Failure to successfully complete any of the above requirements will constitute a failing grade in the course.
+
 #### Class participation
 
 As written, all students are required to attend all of the Monday class sessions and to fully participate in their research group meetings. Additionally, this also requires regular contributions, in the form of peer editing, questions and comments. For additional meetings with First or Second Reader(s), [make an appointment via reader office hours](#Readers).
