@@ -1,6 +1,6 @@
 # Course materials: Senior Thesis, Allegheny College, 2021 (CMPSC 600)
 
-This repository hosts materials which describe the structure and operation of CMPSC 600 and 610. Check this space early and often for updates to the syllabus, schedule, and other course governance.
+This repository hosts materials which describe the structure and operation of CMPSC 600. Check this space early and often for updates to the syllabus, schedule, and other course governance.
 
 ## Resources
 
@@ -72,7 +72,7 @@ This course relies heavily on the above platforms. Your work will be assigned an
 
 ##### Email policy
 
-Despite the fact that the majority of our communication relies on our [Slack](https://cs-senior-thesis-2021.slack.com) and other platforms, the faculty may occasionally use email to communicate significant information. As with other course platforms, it is your responsibility to be accoutable for email communication.
+Despite the fact that the majority of our communication relies on our [Slack](https://cs-senior-thesis-2021.slack.com) and other platforms, the faculty may occasionally use email to communicate significant information. As with other course platforms, it is your responsibility to be accountable for email communication.
 
 ### Learning outcomes
 
@@ -149,6 +149,10 @@ An oral defense of your proposal documentation to be held at a faculty-scheduled
 
 A submission of any two draft chapters of your thesis document. Written in a professional and scientific style, these chapters must be formatted in the Department's thesis style. _Note that this style is different from the proposal style; guidelines for this style will be provided along with the thesis chapter assignment issued this semester_.
 
+### A note on Internal Review Board (IRB) proposals
+
+Should a project require IRB approval for use of human subjects research, students are responsible for having a first draft of the IRB proposal application completed by `1 November 2021`. Students should submit this proposal draft to their First Reader by this date.
+
 ### Syllabus revision policy
 
 The faculty of the Department of Computer Science reserve the right to make changes to this syllabus document. Should a change occur, changes may be discussed with the members of the course community. Minor revisions to wording that do not impact course events or deliverables may be made without notice. 
@@ -175,7 +179,7 @@ The discipline of computer science, like many others, encourages its members to 
 
 Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from their First Readers. To meet with readers, consult [available office hours and make an appointment](#Readers).
 
-Historically, students who are successful in department courses visit and discuss course concepts with the instructor and early and often.
+Historically, students who are successful in department courses visit and discuss course procesess and assignments early and often.
 
 #### Assistance outside of the course
 
@@ -194,4 +198,4 @@ In many situations, the following list of resources may help:
 
 ### Special needs and disability
 
-Students with disabilities who need accommodations in this course are encouraged to contact Disability Services at `+1 814-334-2898`. Disability Services is part of the Learning Commons, located in Pelletier Library. Should you need accommodations, contact this office as soon as possible to ensure that approved accommodations are communicated and implemented as quickly as possible. This serves both you and me in providing the best environment for learning and support.
+Students with disabilities who need accommodations in this course are encouraged to contact Disability Services at `+1 814-334-2898`. Disability Services is part of the Learning Commons, located in Pelletier Library. Should you need accommodations, contact this office as soon as possible to ensure that approved accommodations are communicated and implemented as quickly as possible. This serves everyone involved in providing the best environment for learning and support.

@@ -46,11 +46,11 @@ If completing a Comp Proposal which involves two (2) discplines, _it is up to st
 
 Interdisciplinary projects should, at a minimum, make clear how disciplines outside of computer science exert influence on the product created in addition to demonstrating how computer science also affects conclusions and outcomes reached by other subjects. To determine this, readers and other faculty will be in conversation with other departments to assess all major products and deliverables, namely the Comp Proposal and draft chapters.
 
-Faculty of the department of Computer Science also expect that students engaging in interdisciplinary work will coordinate with all readers to attend defenses and provide feedback on written product. Failure to do so may, in some cases, affect the faculty's ability to appropriate evaluate work.
+Faculty of the Department of Computer Science also expect that students engaging in interdisciplinary work will coordinate with all readers to attend defenses and provide feedback on written product. Failure to do so may, in some cases, affect the faculty's ability to appropriate evaluate work.
 
 ## Faculty responsibilities
 
-The faculty of the Department of Computer Science will make an honest, good faith effort to advise students on projects. However, we would like to highlight two peculiar characteristics of feedback given during the Comp process:
+The faculty of the Department of Computer Science will make an honest, good faith effort to advise students on projects. However, we highlight two peculiar characteristics of feedback given during the Comp process:
 
 1. Feedback, while coming from a place of disciplinary knowledge does not necessarily take into account the breadth and depth students have acquired during their indepdendent research. The faculty expect that students will assume the right to persist in asserting well-informed, even if contrary, opinions -- provided that they are grounded in evidence.
 
