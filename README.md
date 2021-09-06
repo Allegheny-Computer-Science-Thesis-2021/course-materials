@@ -111,7 +111,7 @@ The assignments of this course are comprised of various individual and peer deli
 To pass `CMPSC 600`, submissions of and participation in the following assignments are _required_:
 
 * Thesis proposal
-* Thesis defense
+* Thesis proposal defense
 * Thesis chapters
 
 Failure to successfully complete any of the above requirements will constitute a failing grade in the course.
