@@ -139,11 +139,13 @@ The thesis proposal process is characterized by two fundamental parts.
 ###### Proposal document
 
 
-Subject to multiple rounds of extensive revision, this technical document must be formatted according to the Departments thesis proposal style requirements and approved for a subsequent defense by your First Reader. Guidelines for style and individual document requirements will be provided at the time of assignment.
+Subject to multiple rounds of extensive revision, this technical document must be formatted according to the Departments thesis proposal style requirements and approved for a subsequent defense by your First Reader. 
+
+Basic features of the proposal document are listed in the [course guidelines](CODE_OF_CONDUCT.md#proposal-document).
 
 ###### Proposal defenses
 
-An oral defense of your proposal documentation to be held at a faculty-scheduled time. The first reader reserves the right to cancel students proposal defense if the thesis proposal document does not meet minimum requirements outlined below. Projects subject to this condition may require a follow-up defense.
+An oral defense of your proposal documentation to be held at a faculty-scheduled time. The first reader reserves the right to cancel students proposal defense if the thesis proposal document does not meet minimum requirements outlined in [course guidelines](CODE_OF_CONDUCT.md#proposal-defenses). Projects subject to this condition may require a follow-up defense.
 
 ##### Thesis chapters
 

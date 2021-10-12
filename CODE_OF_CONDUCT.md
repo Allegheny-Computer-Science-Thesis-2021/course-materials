@@ -58,6 +58,35 @@ The faculty of the Department of Computer Science will make an honest, good fait
     
 All parties involved in the Comp process acknowledge the relationship between faculty and students involved to be one of peer research. Both parties should assume this to be true in all exchanges and in evaluation of critical feedback.
 
+## Proposal document
+
+The following should be taken as a list of strong general recommendations for your proposal documents. These categories double as areas the faculty use to both assess work for completeness and evaluation.
+
+- [ ] Proposal was submitted on time
+- [ ] The title of the proposal is appropriate
+- [ ] The abstract provides a concise summary
+- [ ] The introduction section clearly describes the proposed work
+- [ ] The introduction section motivates the proposed work
+- [ ] The related work section describes relevant literature
+- [ ] The related work section situates the proposed project in the broader scope
+- [ ] The method section explains the process to be utilized in the proposed study
+- [ ] The method section includes at least one of the following: the description of algorithms, programming languages, libraries, platforms,  software tools, hardware
+- [ ] The method section includes a demonstration of feasibility
+- [ ] The evaluation section describes how the work will be validated
+- [ ] The proposal includes a detailed schedule	The conclusion section discusses the impact of the proposed work
+- [ ] The conclusion outlines avenues for future work
+- [ ] The proposal includes at least twelve references
+- [ ] The proposal consists of at least `3000` words
+- [ ] The proposal follows a logical flow
+- [ ] The proposal includes visual aids, where appropriate, which fall under the broad categories of:
+ * `image`
+ * `figure`
+ * `table`
+ * `graph`
+- [ ] There are no typographical or grammatical errors and no extraneous text in the proposal
+- [ ] The proposal was released correctly on GitHub
+- [ ] The proposal uses the correct LaTeX format
+
 ## Proposal defenses
 
 Proposal defenses take the form of an in-person oral presentation of between 10 and 15 minutes. Time is dedicated as follows:
