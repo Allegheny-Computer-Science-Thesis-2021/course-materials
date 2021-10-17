@@ -104,3 +104,36 @@ If a student passes the Proposal defense, they are permitted to continue work on
 #### Not passing the thesis defense
 
 Should readers determine that a student _does not_ pass the Proposal defense, changes will be requested via issues filed on the GitHub repository containing the Proposal document. In addition, the student will be asked to attend a follow-up defense. During this follow-up defense, students are expected to address the gaps identified by the previous defense.
+
+## Thesis document minimum requirements
+
+- [ ] Thesis was submitted on time
+- [ ] The title of the thesis is appropriate
+- [ ] The abstract provides a concise summary
+- [ ] The introduction section clearly describes the completed work
+- [ ] The introduction section motivates the completed work	The related work section describes relevant literature
+- [ ] The related work section situates the completed project in the broader scope
+- [ ] The method section explains the process utilized in the completed study
+- [ ] The method section addresses as many of the following which are applicable (minimum `1`):
+* `description of algorithms`
+* `programming languages`
+* `libraries`
+* `platforms`
+* `software tools`
+* `hardware`
+- [ ] The experimental results section includes a description of experiments such that a reader should be able to reproduce them
+- [ ] The evaluation subsection describes how the work is validated
+- [ ] The experimental results section details threats to validity
+- [ ] The discussion and future work section discusses the impact of the conducted work
+- [ ] The conclusion outlines avenues for further and/or future work
+- [ ] The thesis includes at least twelve references
+- [ ] The thesis consists of at least `7500` words
+- [ ] The thesis follows a logical flow
+- [ ] The thesis includes appropriate visual aids, which fall under the broad categories of:
+* `image`
+* `figure`
+* `table`
+* `graph`
+- [ ] There are no typographical or grammatical errors and no extraneous text in the thesis
+- [ ] The thesis was released correctly on GitHub
+- [ ] The thesis uses the correct LaTeX format
