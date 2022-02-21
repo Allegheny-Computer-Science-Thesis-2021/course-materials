@@ -20,7 +20,6 @@ This repository hosts materials which describe the structure and operation of CM
 |Prof. Maria Kim Heinert | Alden Hall, 112|`               `| [ykim@allegheny.edu](mailto:ykim@allegheny.edu) |[Office Hours](https://mariakimheinert.com)|
 |Dr. Greg Kapfhammer |Alden Hall, 108| `+1 814 332 2880`| [gkapfham@allegheny.edu](mailto:gkapfham@allegheny.edu) |[Office Hours](https://www.gregorykapfhammer.com/schedule/)|
 |Prof. Douglas Luman |Alden Hall, 105 |`+1 814 332 2136`| [dluman@allegheny.edu](mailto:dluman@allegheny.edu)| [Office Hours](http://www.cs.allegheny.edu/sites/dluman/)|
-|Dr. Aravind Mohan |Alden Hall, 106 |`+1 814 332 2883` | [amohan@allegheny.edu](mailto:amohan@allegheny.edu)| [Office Hours](http://www.cs.allegheny.edu/sites/amohan/)|
 
 ## Syllabus
 

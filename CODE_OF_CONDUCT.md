@@ -1,6 +1,6 @@
 # Guidelines: Senior Thesis, Allegheny College, 2021 (CMPSC 600/610)
 
-This document outlines relevant guidelines of the Senior Thesis ("Comp") Proposal, describing topic selection, departmental deadlines, and best practices pertaining to work conducted during the semester students take `CMPSC 600`. Additionally, this document outlines those factors of the Comp proposal process which are not directly governed by the `CMPSC 600` syllabus, but are inherent in the process of what the Department of Computer Science implies when referencing "research" and/or "inquiry."
+This document outlines relevant guidelines of the Senior Thesis ("Comp") Proposal, describing topic selection, departmental deadlines, and best practices pertaining to work conducted during the semester students take `CMPSC 600` and `CMPSC 610`. Additionally, this document outlines those factors of the Comp proposal and development process which are not directly governed by the `CMPSC 600` and `CMPSC 610` syllabi, but are inherent in the process of what the Department of Computer Science implies when referencing "research" and/or "inquiry."
 
 ## Topic selection
 
@@ -31,6 +31,7 @@ All due dates are provided in the [course schedule](https://chompe.rs/cmpsc-600-
 
 |Deliverable      |Due date(s) |
 |:----------------|:-----------|
+|Ethics interview |10 May      |
 |Thesis defenses  |12 April - 3 May |
 |Final thesis document |17 May |
 
@@ -148,9 +149,13 @@ Should readers determine that a student _does not_ pass the Proposal defense, ch
 - [ ] The thesis was released correctly on GitHub
 - [ ] The thesis uses the correct LaTeX format
 
+### Note on word count
+
+Keep in mind that all word counts represent a _minimum acceptable threshhold_ of content required for completion. It is likely that other requirements listed above are _not_ fulfilled thoroughly with only a minumum word count. While meeting minimum requirements will guarantee a _passing_ grade, it may not necessarily presage the evaluation you _want_. Keep this in mind as you are working toward exhaustively documenting your project process.
+
 ## Thesis defenses
 
-Proposal defenses take the form of an in-person oral presentation of between 10 and 15 minutes. Time is dedicated as follows:
+Thesis defenses take the form of an in-person oral presentation of between 10 and 15 minutes. Time is dedicated as follows:
 
 * 10 minutes: student presentation
 * 5 minutes: questions posed by First and Second readers in succession
@@ -161,6 +166,12 @@ After deliberation, the First Reader indicates if the presenter has passed the d
 ### Passing the defense
 
 If a student passes the Thesis defense, it is possible that their reader(s) will suggest minor revisions to documents. It is the student's responsibility to consider and implement changes appropriate to the nature of feedback received. Not addressing reader concerns in final documents may adversely affect the evaluation of the quality of the project, resulting in a lower letter grade.
+
+#### "Conditional" passage
+
+In some cases, the changes required by faculty review of student work require significant revision and labor, but not so much so that student work is considered as "not passing." In these cases, a student's readers may come up with certain contingencies that must be fulfilled before judging a project to have passed the defense.
+
+Should a student require these follow-up interventions, their First Reader will open an issue on the student's thesis repository containing the requested revisions. Once a student makes these revisions, and they have been accepted by a student's readers, the student will be notified that they have passed their defense.
 
 ### Not passing the thesis defense
 
