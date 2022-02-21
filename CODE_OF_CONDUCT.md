@@ -1,4 +1,4 @@
-# Guidelines: Senior Thesis, Allegheny College, 2021 (CMPSC 600)
+# Guidelines: Senior Thesis, Allegheny College, 2021 (CMPSC 600/610)
 
 This document outlines relevant guidelines of the Senior Thesis ("Comp") Proposal, describing topic selection, departmental deadlines, and best practices pertaining to work conducted during the semester students take `CMPSC 600`. Additionally, this document outlines those factors of the Comp proposal process which are not directly governed by the `CMPSC 600` syllabus, but are inherent in the process of what the Department of Computer Science implies when referencing "research" and/or "inquiry."
 
@@ -18,11 +18,21 @@ In the past, students have successfully chosen to complete Comp projects dramati
 
 All due dates are provided in the [course schedule](https://chompe.rs/cmpsc-600-2021-schedule). For convienience, major due dates (including the Proposal, defenses, and draft chapter due dates) are reproduced here:
 
+### CMPSC 600
+
 |Deliverable      |Due date(s) |
 |:----------------|:-----------|
 |Proposal document|18 October  |
 |Proposal defenses  |25 October - 15 November |
 |Draft chapters   |13 December |
+
+
+### CMPSC 610
+
+|Deliverable      |Due date(s) |
+|:----------------|:-----------|
+|Thesis defenses  |12 April - 3 May |
+|Final thesis document |17 May |
 
 The course syllabus, assignment sheets, and schedule take precedence in defining formats and, in some cases, due date changes. While this document provides the dates, these reflect general planning for the semester. In the event of due date changes, they may be the last source updated. Refer to specific guidance from course documents and faculty in the event of changes discussed.
 
@@ -137,3 +147,23 @@ Should readers determine that a student _does not_ pass the Proposal defense, ch
 - [ ] There are no typographical or grammatical errors and no extraneous text in the thesis
 - [ ] The thesis was released correctly on GitHub
 - [ ] The thesis uses the correct LaTeX format
+
+## Thesis defenses
+
+Proposal defenses take the form of an in-person oral presentation of between 10 and 15 minutes. Time is dedicated as follows:
+
+* 10 minutes: student presentation
+* 5 minutes: questions posed by First and Second readers in succession
+* brief deliberation of Proposal document and presentation, during which the presenting student leaves the room
+
+After deliberation, the First Reader indicates if the presenter has passed the defense. Students _will not_ be given a grade on their document or presentation at this time.
+
+### Passing the defense
+
+If a student passes the Thesis defense, it is possible that their reader(s) will suggest minor revisions to documents. It is the student's responsibility to consider and implement changes appropriate to the nature of feedback received. Not addressing reader concerns in final documents may adversely affect the evaluation of the quality of the project, resulting in a lower letter grade.
+
+### Not passing the thesis defense
+
+Should readers determine that a student _does not_ pass an initial Thesis defense, changes will be requested via issues filed on the GitHub repository containing the Thesis document. These changes are also student responsibility to implement and constitute more than minor suggestions or considerations.
+
+The student must re-defend their thesis either through a full defense session or through a process developed with their thesis reader(s). Following significant revisions to the thesis document and/or presentation of that document, and if readers agree that work has met standards acceptable to the department, the student's work will be considered to have passed this requirement.

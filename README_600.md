@@ -1,6 +1,6 @@
-# Course materials: Senior Thesis, Allegheny College, 2022 (CMPSC 610)
+# Course materials: Senior Thesis, Allegheny College, 2021 (CMPSC 600)
 
-This repository hosts materials which describe the structure and operation of CMPSC 610. Check this space early and often for updates to the syllabus, schedule, and other course governance.
+This repository hosts materials which describe the structure and operation of CMPSC 600. Check this space early and often for updates to the syllabus, schedule, and other course governance.
 
 ## Resources
 
@@ -28,14 +28,12 @@ This repository hosts materials which describe the structure and operation of CM
 
 Independent research in computer science. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. Must be taken on the letter-grade basis. 
 
-* Prerequisite: `CMPSC 600`
+* Prerequisite: `CMPSC 580`
 * Distribution Requirements: `None`
 
 ### Welcome
 
-This continuation of the thesis process asks much of you: implementation, writing, and cohesive defense of the processes and methods proposed in the previous semester. Given the sustained nature of the work required to marshall the sum of your efforts, the tasks in front of you may seem insurmountable. It is the hope of the Faculty that the structure of this course will facilitate progress and reduce the necessary time pressure that an impending due date imposes. For many students, this more practical and concrete phase of the thesis is often the most exciting, though it can--undoubtedly--surface new and challenging issues.
-
-We hope that you bring the same level of zeal and commitment to this work. Your dedication and discipline in the closing stages of the thesis project will lead to proportional reward.
+Your senior thesis process affords you the opportunity to pursue independent research in computer science. This course parallels the kinds of intense inquiry and research inherent to an academic life. To that end, you will work closely with your readers to explore rich, ever-complex, projects. Though the faculty cannot promise that this work will be frustration- or challenge-free, we invite you to pursue it with great enthusiasm, vigor, and to -- above all -- find joy in the process.
 
 ### Course information
 
@@ -43,7 +41,7 @@ We hope that you bring the same level of zeal and commitment to this work. Your 
 
 |Day of week |Time |Purpose |Location |
 |:-----------|:----|:-------|:--------|
-|Tuesday      |1:30p-2:30p |General meeting |Alden 101|
+|Monday      |1:50p-2:40p |General meeting |Alden 101|
 
 The above meetings serve as your opportunity to work on assignments and participate in the community created by this course. Your ability to give and receive peer feedback is fundamental to your success.
 
@@ -100,22 +98,21 @@ Faculty in the Department of Computer Science evaluate individual student perfor
 The assignments of this course are comprised of various individual and peer deliverables, detailed below. For the purposes of evaluation, these assignments are assigned the following point values:
 
 |Assignment                      |Point value |Percentage of course grade |
-|:-------------------------------|:-----------|:-|
-|Class participation             |50          |5%|
-|Maintaining course repositories |50          |5%|
-|Status updates                  |50          |5%|
-|Peer reviews                    |150         |15%|
-|Thesis ethical issues interview |100         |10%|
-|Final thesis defense            |200         |20%|
-|Final thesis document           |400         |50%|
+|:-------------------------------|:-----------|:--------------------------|
+|Class participation             |50          |5%                         |
+|Maintaining course repositories |50          |5%                         |
+|Status updates                  |50          |5%                         |
+|Peer reviews                    |150         |15%                        |
+|Thesis proposal                 |500         |50%                        |
+|Thesis chapters (drafts)        |200         |20%                        |
 
 #### Note about assignments
 
-To pass `CMPSC 610`, submissions of and participation in the following assignments are _required_:
+To pass `CMPSC 600`, submissions of and participation in the following assignments are _required_:
 
-* At least one (1) episode of an ethics podcast recorded with a faculty interviewer ([see assignment description below](#Ethics-podcast))
-* Complete thesis chapters and implementation ("Thesis Project")
-* Thesis Project defense
+* Thesis proposal
+* Thesis proposal defense
+* Thesis chapters
 
 Failure to successfully complete any of the above requirements will constitute a failing grade in the course.
 
@@ -131,38 +128,32 @@ You are responsible for accepting and maintaining GitHub repositories for each o
 
 ##### Status updates and peer review
 
-This assignment types asks you to detail progress made in the course of implementing, evaluating, and assessing your work. This work should account for feedback solicited from your First and Second Readers. 
+This assignment types asks you to detail the progress made on identifying a topic for your project and completing the preliminary research needed to demonstrate its feasibility. This work should account for feedback solicited from your First and Second Readers.
 
-In addition, you will be requested (at four points throughout the semester) to complete peer reviews of draft documents. This feedback is crucial to you and your peers' progress in this course. `CMPSC 610` features:
+In addition, you will be requested (at three points throughout the semester) to complete peer reviews of draft documents. This feedback is crucial to you and your peers' progress in this course.
 
-* peer review of remainig these chapter outline(s)
-* peer review of the third thesis chapter
-* peer review of the fourth thesis chapter
-* peer review of entire thesis document
+##### Thesis proposal
 
-##### Thesis project
+The thesis proposal process is characterized by two fundamental parts.
 
-The thesis proposal process is characterized by three fundamental parts.
+###### Proposal document
 
-###### Thesis project implementation
 
-Implementation of the thesis project must be made available to your reader(s) via GitHub. For theoretical or abstract projects which _cannot_ be implemented in functional code, this requirement may be substituted or waived on a per-project basis.
+Subject to multiple rounds of extensive revision, this technical document must be formatted according to the Departments thesis proposal style requirements and approved for a subsequent defense by your First Reader. 
 
-###### Thesis document
+Basic features of the proposal document are listed in the [course guidelines](CODE_OF_CONDUCT.md#proposal-document).
 
-Subject to multiple rounds of extensive revision, this technical document must be formatted according to the Department's thesis proposal style requirements and approved for a subsequent defense by your First Reader. 
+###### Proposal defenses
 
-Basic features of thesis document are listed in the [course guidelines](CODE_OF_CONDUCT.md#proposal-document).
+An oral defense of your proposal documentation to be held at a faculty-scheduled time. The first reader reserves the right to cancel students proposal defense if the thesis proposal document does not meet minimum requirements outlined in [course guidelines](CODE_OF_CONDUCT.md#proposal-defenses). Projects subject to this condition may require a follow-up defense.
 
-###### Thesis defenses
+##### Thesis chapters
 
-An oral defense of your thesis document and implementation to be held at a faculty-scheduled time. The first reader reserves the right to cancel students  defense if the thesis document does not meet minimum requirements outlined in [course guidelines](CODE_OF_CONDUCT.md#proposal-defenses). Projects subject to this condition may require a follow-up defense.
+A submission of any two draft chapters of your thesis document. Written in a professional and scientific style, these chapters must be formatted in the Department's thesis style. _Note that this style is different from the proposal style; guidelines for this style will be provided along with the thesis chapter assignment issued this semester_.
 
-###### Ethics podcast
+### A note on Internal Review Board (IRB) proposals
 
-Each student is required to record at least one (1) episode of a `10` - `20` minute podcast recorded with a Faculty member. This episode is organized around ethical and other related issues implied by your thesis project. 
-
-These episodes will take the form of an interview. They should be conducted _by `10 May`_. Prof. Luman will contact you to schedule this (though may not be your interviewer).
+Should a project require IRB approval for use of human subjects research, students are responsible for having a first draft of the IRB proposal application completed by `1 November 2021`. Students should submit this proposal draft to their First Reader by this date.
 
 ### Syllabus revision policy
 
